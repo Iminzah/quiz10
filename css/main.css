@@ -1,0 +1,175 @@
+body{
+	background-color: grey;
+	font-family: Arial;
+
+}
+.begin{
+	background-color: grey;
+	height: 60px;
+}
+
+.name{
+	background-color: #2F4351;
+	text-align: center;
+	color: #fff;
+	min-height: 50px;
+	font-size: 35px;
+	padding-top: 20px;
+
+}
+.welcome{
+	padding-top: 0px;
+	background-color: #3B5367;
+	min-height: 280px;
+	text-align: center;
+	padding-top: 20px;
+	color: #fff;
+	font-size: 20px;
+}
+.learn{
+	color: yellow;
+}
+.site{
+	font-size: 50px;
+}
+.one{
+	background-color: #D1D1D1;
+	height: 1450px;
+}
+.about{
+	
+	margin-left: 140px;
+	margin-right: 140px;
+	background-color: #fff;
+	height: 420px;
+
+}
+h2{
+	background-color: yellow;
+	height: 80px;
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 20px;
+
+}
+img{
+	position: absolute;
+	padding-left: 20px;
+	
+
+}
+.lorem{
+	padding-left: 340px;
+}
+.myHobbies{
+
+	margin-left: 140px;
+	margin-right: 630px;
+	background-color: #fff;
+	height: 400px;
+	width: 450px;
+	float:left;
+    
+    
+
+}
+.myGoals{
+    
+	margin-left: 700px;
+	margin-right: 140px;
+	background-color: #fff;
+
+	
+	float: right;
+	position: relative;  
+    width: 450px;
+   height: 400px;
+    top: -400px;         
+    left: 5px;
+   
+    
+    
+
+}
+.hobbies{
+
+	background-color: yellow;
+	height: 60px;
+	text-align: left;
+	margin-top: -1px;
+	padding-top: 10px;
+
+	
+}
+.goals{
+
+	background-color: yellow;
+	height: 60px;
+	text-align: left;
+	margin-top: -1px;
+	padding-top: 10px;
+	
+	
+
+}
+.school{
+	background-color: yellow;
+}
+
+
+table{
+	margin-left: 140px;
+	position: relative;
+	top: -350px;
+
+	
+	
+}
+th{
+background-color: yellow;
+height: 80px;
+text-align: left;
+padding-left: 20px;
+}
+
+table, td {
+
+	background-color: #fff;
+	width: 1000px;
+	height: 50px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+/*.about{
+
+
+	background-color: #F7CE06;
+	padding-left: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+	min-height: 100px;
+	padding-top: 15px;
+}*/
+.contacts{
+	color: #fff;
+}
+
+.footer{
+	background-color:  #2F4351;
+    height: 200px;
+    width: 100%;
+
+}
+.sharon{
+	padding-top: 10px;
+	color: yellow;
+
+}
+footer{
+	color: white;
+	text-align: left;
+	padding-left: 90px;
+	padding-top: 30px;
+}
+
+/*#D1D1D1;*/
