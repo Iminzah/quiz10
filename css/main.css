@@ -172,4 +172,10 @@ footer{
 	padding-top: 30px;
 }
 
+@media screen and (max-width: 600px) {
+  .sharon,.footer,.contacts,table,td,th,.school,.goals,.hobbies,.myGoals,.myHobbies,.lorem,.about,.site,.learn,.one,.welcome,.name,.begin{
+    width: 100%; 
+  }
+}
+
 /*#D1D1D1;*/
